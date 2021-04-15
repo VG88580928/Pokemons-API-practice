@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.24228575.chunk.css",
-    "main.js": "/robofriends/static/js/main.9a22d0b9.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.9a22d0b9.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.281fdfcb.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.281fdfcb.js.map",
-    "static/css/2.fe359a49.chunk.css": "/robofriends/static/css/2.fe359a49.chunk.css",
-    "static/js/2.3e2a2ac1.chunk.js": "/robofriends/static/js/2.3e2a2ac1.chunk.js",
-    "static/js/2.3e2a2ac1.chunk.js.map": "/robofriends/static/js/2.3e2a2ac1.chunk.js.map",
-    "static/js/3.0639eed6.chunk.js": "/robofriends/static/js/3.0639eed6.chunk.js",
-    "static/js/3.0639eed6.chunk.js.map": "/robofriends/static/js/3.0639eed6.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/robofriends/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.24228575.chunk.css.map": "/robofriends/static/css/main.24228575.chunk.css.map",
-    "static/js/2.3e2a2ac1.chunk.js.LICENSE.txt": "/robofriends/static/js/2.3e2a2ac1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/Pokemons-API-practice/static/css/main.03ccf713.chunk.css",
+    "main.js": "/Pokemons-API-practice/static/js/main.9a22d0b9.chunk.js",
+    "main.js.map": "/Pokemons-API-practice/static/js/main.9a22d0b9.chunk.js.map",
+    "runtime-main.js": "/Pokemons-API-practice/static/js/runtime-main.fdef1317.js",
+    "runtime-main.js.map": "/Pokemons-API-practice/static/js/runtime-main.fdef1317.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Pokemons-API-practice/static/css/2.fe359a49.chunk.css",
+    "static/js/2.3e2a2ac1.chunk.js": "/Pokemons-API-practice/static/js/2.3e2a2ac1.chunk.js",
+    "static/js/2.3e2a2ac1.chunk.js.map": "/Pokemons-API-practice/static/js/2.3e2a2ac1.chunk.js.map",
+    "static/js/3.0639eed6.chunk.js": "/Pokemons-API-practice/static/js/3.0639eed6.chunk.js",
+    "static/js/3.0639eed6.chunk.js.map": "/Pokemons-API-practice/static/js/3.0639eed6.chunk.js.map",
+    "index.html": "/Pokemons-API-practice/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Pokemons-API-practice/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.03ccf713.chunk.css.map": "/Pokemons-API-practice/static/css/main.03ccf713.chunk.css.map",
+    "static/js/2.3e2a2ac1.chunk.js.LICENSE.txt": "/Pokemons-API-practice/static/js/2.3e2a2ac1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Pokemons-API-practice/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.281fdfcb.js",
+    "static/js/runtime-main.fdef1317.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.3e2a2ac1.chunk.js",
-    "static/css/main.24228575.chunk.css",
+    "static/css/main.03ccf713.chunk.css",
     "static/js/main.9a22d0b9.chunk.js"
   ]
 }
