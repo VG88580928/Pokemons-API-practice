@@ -1,16 +1,20 @@
 import React from "react";
 import Card from "./Card";
 
-const CardList = ({ robots }) => {
+
+const CardList = ({ pokemons }) => {   
     return (
         <div>
     {
-        robots.map(user => {
+        pokemons.map(pokemon => {
         return (
-        <Card key={user.id} 
-        id={user.id} 
-        name={user.name} 
-        email={user.email}
+        <Card 
+        key={pokemon.id} 
+        id={pokemon.id} 
+        name={pokemon.name} 
+        height={pokemon.height}
+        weight={pokemon.weight}
+        exp={pokemon.base_experience}
         />
         )
     })
