@@ -15,6 +15,7 @@ const CardList = ({ pokemons }) => {
         height={pokemon.height}
         weight={pokemon.weight}
         exp={pokemon.base_experience}
+        type={pokemon.types[0].type.name}
         />
         )
     })

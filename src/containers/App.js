@@ -33,7 +33,7 @@ class App extends Component {
               })
           })
         })
-    }
+    }  
 
     componentDidMount() {
         this.getPokemonDetails();
@@ -51,7 +51,6 @@ class App extends Component {
     }
 
     render () {
-        console.log(this.getFilteredSortedList())
         return !this.state.pokemonDetails.length ? 
         <h1 className="tc">Loading</h1> :
         (
@@ -60,7 +59,7 @@ class App extends Component {
             <SearchBox searchChange={this.onSearchChange}/>
             <Scroll>
                 <ErrorBoundry>
-                    <CardList pokemons={this.getFilteredSortedList()} />
+                    <CardList pokemons={this.getFilteredSortedList()}/>
                 </ErrorBoundry>
             </Scroll>    
             </div>   
